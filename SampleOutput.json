@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jeff Cox",
+        "title": "Federal Reserve minutes indicate worries over lack of progress on inflation - CNBC",
+        "description": "The Federal Reserve on Wednesday released minutes from its April 30-May 1 policy meeting.",
+        "url": "https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409063-17145909762024-05-01t191510z_1012019056_rc2vh7a448eu_rtrmadp_0_usa-economy-fed.jpeg?v=1714591013&w=1920&h=1080",
+        "publishedAt": "2024-05-22T18:00:44Z",
+        "content": "Federal Reserve officials grew more concerned at their most recent meeting about inflation, with members indicating that they lacked the confidence to move forward on interest rate reductions.\r\nMinut… [+4409 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Rob Picheta",
+        "title": "UK PM Rishi Sunak calls surprise July election as his party seeks to defy dire polls - CNN",
+        "description": "UK Prime Minister Rishi Sunak announced a snap general election for July 4 in a statement outside Downing Street on Wednesday evening, as his Conservative party faces an uphill struggle to extend its 14 years in power.",
+        "url": "https://www.cnn.com/2024/05/22/uk/uk-early-elections-sunak-conservatives-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153542389.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-05-22T18:00:00Z",
+        "content": "UK Prime Minister Rishi Sunak announced a snap general election for July 4 in a statement outside Downing Street on Wednesday evening, as his Conservative Party faces an uphill struggle to extend its… [+5395 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Alex Sundby",
+        "title": "Uvalde school shooting victims' families announce $2 million settlement with Texas city and new lawsuits - CBS News",
+        "description": "Family members of Uvalde school shooting victims also said they're filing lawsuits against dozens of Texas Department of Public Safety officers and Uvalde's school district.",
+        "url": "https://www.cbsnews.com/news/uvalde-school-shooting-settlement-texas-city-lawsuits/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/22/db23e08e-fc22-4cdb-b4bd-79d67c44d925/thumbnail/1200x630/ba2e1d4ab8d16c2d3c5e301230754021/ap24143668339567.jpg?v=dac66bdad19d0be8e87f46552b582682",
+        "publishedAt": "2024-05-22T17:50:16Z",
+        "content": "Family members of Uvalde school shooting victims announced on Wednesday a $2 million settlement with the Texas city over the deadly 2022 rampage. The group also said they're filing lawsuits against d… [+3380 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBC 10 Philadelphia"
+        },
+        "author": "Dan Stamm",
+        "title": "‘Absolute tragedy': 2 dead, 3 hurt in Chester workplace shooting - NBC Philadelphia",
+        "description": "At least two workers were killed and three others were hurt in a workplace shooting at a family-owned linen business in Chester, Pennsylvania, Wednesday, Delaware County authorities said.",
+        "url": "http://www.nbcphiladelphia.com/news/local/chester-shooting-business/3865307/",
+        "urlToImage": "https://media.nbcphiladelphia.com/2024/05/Chester-police-shooting.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2024-05-22T17:00:00Z",
+        "content": "\u003Cul\u003E\u003Cli\u003EChester police say a shooting early Wednesday at a linen company in the Delaware County city killed two people dead and wounded three others. \u003C/li\u003E\u003Cli\u003E\"A disgruntled employee has walked into … [+2973 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Kaia Hubbard, Melissa Quinn",
+        "title": "Senate confirms 200th Biden judge as Democrats tout \"major milestone\" - CBS News",
+        "description": "The milestone comes with the confirmation of two judges to the federal district court in Arizona.",
+        "url": "https://www.cbsnews.com/news/judicial-nominations-200-senate-confirmation-biden/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/21/44643374-3f8f-440a-ae84-4bdf4ee942e7/thumbnail/1200x630g8/775039ef5ec35047bdc4ef3156d2a230/gettyimages-2059260228.jpg?v=dac66bdad19d0be8e87f46552b582682",
+        "publishedAt": "2024-05-22T16:36:10Z",
+        "content": "Washington — The Senate on Wednesday confirmed President Biden's 200th judicial nominee, surpassing the number of appointments to the federal judiciary made by his two most recent predecessors at thi… [+6279 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Jared Kofsky",
+        "title": "Tennessee judge blocks effort to sell Elvis Presley's Graceland - ABC News",
+        "description": "A notary said the signature on a document was not actually hers.",
+        "url": "https://abcnews.go.com/US/tennessee-judge-blocks-effort-sell-graceland/story?id=110448166",
+        "urlToImage": "https://i.abcnewsfe.com/a/6805f70d-7db0-44fc-8b28-b12c3e5bc29c/graceland-elvis-ap-lv-240521_1716328888392_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-05-22T16:30:00Z",
+        "content": "Elvis Presley's home of Graceland will not be hitting the auction block on Thursday after all.\r\nIn a hearing Wednesday that only lasted about eight minutes, Chancellor JoeDae Jenkins adjourned the sa… [+2994 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JOSEPH WILSON, MELANIE LIDMAN, JOSEPH KRAUSS",
+        "title": "Norway, Ireland and Spain say they will recognize a Palestinian state, deepening Israel's isolation - The Associated Press",
+        "description": "Norway, Ireland and Spain say they will recognize a Palestinian state. The historic but largely symbolic move further deepens Israel’s isolation more than seven months into its grinding war against Hamas in Gaza. Israel immediately denounced Wednesday's decis…",
+        "url": "https://apnews.com/article/norway-palestinian-state-ddfd774a23d39f77f5977b9c89c43dbc",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c8c7085/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F3c%2Fbad996e418ad51249401d3a8c659%2F4986b0642e15409988c714aed2adaec5",
+        "publishedAt": "2024-05-22T16:21:00Z",
+        "content": "TEL AVIV, Israel (AP) Norway, Ireland and Spain said Wednesday they would recognize a Palestinian state, a historic but largely symbolic move that further deepens Israels isolation more than seven mo… [+7674 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Des Moines Register"
+        },
+        "author": "Des Moines Register",
+        "title": "Several tornadoes touch down; deaths, injuries confirmed in Greenfield - Des Moines Register",
+        "description": null,
+        "url": "https://www.desmoinesregister.com/story/weather/2024/05/21/iowa-national-weather-service-severe-weather-outlook-des-moines-readar/73783200007/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-22T16:07:30Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Classified files found in Trump bedroom at Mar-a-Lago - BBC.com",
+        "description": "Prosecutors allege a “scramble\" to ensure boxes containing sensitive material were moved “off-camera\" at Mar-a-Lago.",
+        "url": "https://www.bbc.com/news/articles/c3gglgwe49zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46c8/live/5c4afbd0-17a7-11ef-80f2-dd78954a08f5.jpg",
+        "publishedAt": "2024-05-22T15:57:16Z",
+        "content": "A judge has questioned how Donald Trump could have overlooked sensitive documents that turned up in his bedroom after the FBI searched the former US presidents Florida home.\r\nThe files were found in … [+2538 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Biggest US retailers cut prices as inflation hits shoppers - Financial Times",
+        "description": "Analysts see Target and Walmart setting a new tone for sector after years of increases",
+        "url": "https://www.ft.com/content/e3b5c1a0-48ac-4922-970a-8b9ca7c2539e",
+        "urlToImage": null,
+        "publishedAt": "2024-05-22T15:18:28Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JONEL ALECCIA",
+        "title": "Use of Wegovy and other weight-loss drugs soars among kids and young adults - The Associated Press",
+        "description": "Use of diabetes and obesity medications such as Ozempic, Wegovy and other so-called GLP-1 drugs has soared among teens and young adults. New research shows that the number of 12- to 25-year-olds who used the medications climbed from about 8,700 a month in 202…",
+        "url": "https://apnews.com/article/wegovy-ozempic-teens-young-adults-24047516e0c3b4f678c3e91f4ed6face",
+        "urlToImage": "https://dims.apnews.com/dims4/default/540bb23/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F1b%2F84a57fbf9581e20eff9994a29ec4%2Faa4d8412223c4ad99521870f56e49286",
+        "publishedAt": "2024-05-22T15:03:00Z",
+        "content": "At 17, Israel McKenzie was so burdened by obesity that he stopped going to high school in person and was embarrassed to speak to people at his restaurant job.\r\nI was in a really dark place, says McKe… [+4678 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aria Alamalhodaei",
+        "title": "Boeing, NASA indefinitely delay crewed Starliner launch - TechCrunch",
+        "description": "If you've been looking forward to seeing Boeing’s Starliner capsule carry two astronauts to the International Space Station for the first time, you'll",
+        "url": "https://techcrunch.com/2024/05/22/boeing-nasa-indefinitely-delay-crewed-starliner-launch/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1240755724.jpg?resize=1200,704",
+        "publishedAt": "2024-05-22T14:53:49Z",
+        "content": "If you’ve been looking forward to seeing Boeings Starliner capsule carry two astronauts to the International Space Station for the first time, you’ll have to wait a bit longer.\r\nThe mission, which ha… [+2097 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Bill Chappell",
+        "title": "Billions from Russia's frozen assets will go to help Ukraine's military, the EU says - NPR",
+        "description": "Under the plan, the European Union will send as much as $3.25 billion in profits from frozen Russian assets to Ukraine to help finance its military and reconstruction efforts.",
+        "url": "https://www.npr.org/2024/05/22/1252872978/russia-assets-aid-ukraine-eu-war-sanctions",
+        "urlToImage": "https://media.npr.org/assets/img/2024/05/22/gettyimages-1546589694_wide-c1768bd64d1a9d2e1768da86f062e072216d39a7.jpg?s=1400&c=100&f=jpeg",
+        "publishedAt": "2024-05-22T14:44:33Z",
+        "content": "A man waves to a taxi as he leaves the Russian Central Bank headquarters in downtown Moscow last summer. The EU approved a plan this week to use interest from hundreds of billions of dollars' worth o… [+3461 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Scarlett Johansson scandal is putting OpenAI's Sam Altman in the hot seat - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/05/22/altman-openai-chatgpt-scarlet-johansson",
+        "urlToImage": null,
+        "publishedAt": "2024-05-22T14:35:26Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "T-Mobile price increase of $2 or $5 per line for some older plans - 9to5Mac",
+        "description": "You might need to prepare yourself for a T-Mobile price increase, if you’re on one of the company’s older plans....",
+        "url": "https://9to5mac.com/2024/05/22/t-mobile-price-raise/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/T-Mobile-price-raises.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-05-22T14:18:00Z",
+        "content": "You might need to prepare yourself for a T-Mobile price increase, if you’re on one of the company’s older plans. The company is reportedly set to announce increases of $2 or $5 per line tomorrow …\r\nC… [+1841 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Kyle Barr",
+        "title": "One Month After Launch, AI Pin Maker Humane Seeks a Billion Dollar Sale - Gizmodo",
+        "description": "The company is reportedly in the early stages of looking at a sale a few weeks after critics widely panned the $700 AI-centric wearable.",
+        "url": "https://gizmodo.com/humane-ai-pin-selling-billion-1851493143",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/96613f488d13fb1887f504571078a995.png",
+        "publishedAt": "2024-05-22T14:00:00Z",
+        "content": "The $700 Humane AI Pin didnt have the best launch, mainly because reviewers got their hands on the pint-size wearable chatbot and realized a lot of features didnt work as well as advertised. Now, the… [+3099 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eonline.com"
+        },
+        "author": "Olivia Evans",
+        "title": "Ben Affleck Goes Out to Dinner Solo Amid Jennifer Lopez Split Rumors - E! NEWS",
+        "description": "Ben Affleck attended dinner in Los Angeles without Jennifer Lopez amid breakup rumors surrounding the couple, who tied the knot in 2022.",
+        "url": "https://www.eonline.com/news/1402143/ben-affleck-goes-out-to-dinner-solo-amid-jennifer-lopez-split-rumors",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024422/rs_1200x1200-240522055634-benaffleck.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2024-05-22T13:25:00Z",
+        "content": "Ben Affleck, party of one. \r\nAmid breakup rumors surrounding the Good Will Hunting star and his wife Jennifer Lopez, Ben was seen flying solo at Giorgio Baldi in Santa Monica, Calif., May 21.\r\nWhile … [+735 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "LeBron James calls out Pacers for not fouling up by 3 points in Game 1 loss vs. Celtics - CBS Sports",
+        "description": "LeBron said teams should foul 'every single time' after Jaylen Brown's game-tying triple",
+        "url": "https://www.cbssports.com/nba/news/lebron-james-calls-out-pacers-for-not-fouling-up-by-3-points-in-game-1-loss-vs-celtics/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/22/4aab8676-cf65-426c-b967-a69ad09c9bdc/thumbnail/1200x675/ab27ef1df32eaf4e2ff680ef21a0c7f7/lebron-getty-4.png",
+        "publishedAt": "2024-05-22T13:06:00Z",
+        "content": "Up by three points late in a game, to foul or not to foul is one of the most divisive questions in basketball. On Tuesday during the Boston Celtics' eventual win over the Indiana Pacers in Game 1 of … [+1875 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KTLA Los Angeles"
+        },
+        "author": "Tony Kurzweil",
+        "title": "SpaceX rocket loaded with spy satellites seen over downtown L.A. - KTLA Los Angeles",
+        "description": "A SpaceX rocket carrying a set of spy satellites for the U.S. government was seen flying over downtown Los Angeles overnight. The Falcon 9 rocket lifted off from Vandenberg Space Force Base in Santa Barbara County around 1 a.m. The launch was part of a Nation…",
+        "url": "https://ktla.com/news/local-news/spacex-rocket-loaded-with-spy-satellites-seen-over-downtown-l-a/",
+        "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/05/spacex.png?w=1280",
+        "publishedAt": "2024-05-22T13:02:17Z",
+        "content": "A SpaceX rocket carrying a set of spy satellites for the U.S. government was seen flying over downtown Los Angeles overnight.\r\nThe Falcon 9 rocket lifted off from Vandenberg Space Force Base in Santa… [+782 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Lacey Rose",
+        "title": "Glen Powell Finally Conquered Hollywood. So Why Is He Leaving? - Hollywood Reporter",
+        "description": "The red hot star of ‘Top Gun’ and ‘Anyone But You’ — mentored by Tom Cruise and on every studio wish list — is returning to his native Texas to party with his folks, escape the L.A. fishbowl and finally graduate college. But don’t worry, you’ll still be seein…",
+        "url": "http://www.hollywoodreporter.com/movies/movie-features/glen-powell-interview-hit-man-movie-texas-move-1235905159/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/005_GA_240325_0413-H-2024.jpg?w=1024",
+        "publishedAt": "2024-05-22T13:01:12Z",
+        "content": "Glen Powell arrives at lunch through a back door toting a container of bone broth he isn’t eager to look at, much less consume. He’s more a “chicken-fried-steak-in-Austin kind of a guy,” he insists, … [+24673 chars]"
+      }
+    ]
+  }
